@@ -37,6 +37,21 @@ nav ul{
     display: flex;
 
 }
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li a{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+}
+nav ul li a i{
+    font-size: 12px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
 
 .arrow{
     color: #fff;
